@@ -24,7 +24,7 @@ def start(update: Updater, context: CallbackContext):
     username = update.message.from_user['username']
     room_id = update.message.chat_id
     print("Username is %s room_id=%s" % (username,room_id))
-    bot.send_message(room_id,'Hello!!!!!')
+    bot.send_message(room_id,'Привет красавчик! Хочешь я приласкаю твоего питончика?')
     bot.send_photo(chat_id=room_id, photo=open('%s/%s/index/1.jpeg' % (DATA_DIR, botname), 'rb'))
     
 
