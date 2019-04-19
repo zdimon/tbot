@@ -1,0 +1,9 @@
+<message>Do you like this?</message>
+
+<button value="yes/like">
+    Yes
+</button>
+
+<button value="no">
+   No
+</button>

@@ -1,0 +1,8 @@
+<message>Hello! Welcome</message>
+<button value="yes">
+    Do you want to see the catalog?
+</button>
+
+<button value="no">
+   No thank you
+</button>
