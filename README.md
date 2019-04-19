@@ -28,11 +28,11 @@
 В корне создать папку index куда положить файл message.txt.
 
     <message>Hello! Welcome</message>
-    <button value="yes">
+    <button value="path_to_one_step">
         Do you want to see the catalog?
     </button>
 
-    <button value="no">
+    <button value="path_to_second_step">
        No thank you
     </button>
     
